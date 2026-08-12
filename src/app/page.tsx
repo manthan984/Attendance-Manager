@@ -9,7 +9,7 @@ export default async function LandingPage() {
       <nav className="landing-nav">
         <Link href="/" className="landing-nav-brand">
           <div className="sidebar-logo">A</div>
-          Classroom
+          Classes
         </Link>
         <div>
           {session ? (
