@@ -5,7 +5,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="60" alt="PostgreSQL" />
 
-  <h1 align="center">AttendTrack — Attendance Manager</h1>
+  <h1 align="center">Classroom — Attendance Manager</h1>
   <p align="center">
     <strong>A modern, per-user attendance tracking web application.</strong>
     <br />
@@ -17,7 +17,7 @@
 
 ## 🌟 Overview
 
-AttendTrack is a full-stack web application designed to help students track their attendance across multiple subjects seamlessly. With a beautifully crafted **Amethyst-Mint Harmony** UI, users get their own private, secure dashboard to monitor their classes, set custom danger thresholds, and log their daily attendance via an interactive calendar grid.
+Classroom is a full-stack web application designed to help students track their attendance across multiple subjects seamlessly. With a beautifully crafted **Amethyst-Mint Harmony** UI, users get their own private, secure dashboard to monitor their classes, set custom danger thresholds, and log their daily attendance via an interactive calendar grid.
 
 ### ✨ Key Features
 
@@ -64,7 +64,7 @@ This project leverages the modern web development ecosystem:
 
 ## 🚀 Quick Start (Local Development)
 
-Want to run AttendTrack on your own machine? Follow these steps:
+Want to run Classroom on your own machine? Follow these steps:
 
 ### 1. Prerequisites
 - **Node.js** (v20 or newer)

@@ -20,7 +20,7 @@ export default function Sidebar() {
         <div className="sidebar-header">
           <div className="sidebar-logo">A</div>
           <div>
-            <div className="sidebar-brand">AttendTrack</div>
+            <div className="sidebar-brand">Classroom</div>
             <div className="sidebar-brand-sub">Attendance Manager</div>
           </div>
         </div>
